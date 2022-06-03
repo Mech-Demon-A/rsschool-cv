@@ -1,4 +1,4 @@
-# [rsschool-cv](https://annavoloshina.github.io/rsschool-cv/)
+# rsschool-cv
 ***
 # __Heorhi Kasalapau__
 ***
@@ -37,7 +37,7 @@ def update_dictionary(d, key, value):
 * __University:__ Polotsk State University, Information Technology Software
 * __Courses:__
     + Programming on Python
-    + Functional programmin on Haskell
+    + Functional programming on Haskell
 ***
 ### __Languages__
 * English - Upper-intermidiate
