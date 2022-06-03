@@ -5,7 +5,7 @@
 ## __Junior Front-end Developer__
 ***
 ### __Contacts__
-* __Location:__ Vitebskk, Belarus
+* __Location:__ Vitebsk, Belarus
 * __Phone:__ +375(33)658-02-65
 * __Email:__ kosolapon@bk.ru
 * __GitHub:__ [mech-demon-a](https://github.com/Mech-Demon-A)
